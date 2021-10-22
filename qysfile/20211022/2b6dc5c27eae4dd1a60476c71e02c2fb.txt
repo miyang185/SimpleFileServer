@@ -1,0 +1,8 @@
+https://www.iteye.com/blog/macken-1575735
+https://www.cnblogs.com/zfy0098/p/5230465.html
+https://www.cnblogs.com/Scott007/p/3817285.html
+https://www.cnblogs.com/yaowen/p/9068970.html
+
+
+http://localhost:8080/file/download?uuid=ba6c1d204ecf44cfa13f4b9eed295d64
+http://localhost:8080/file/getFileInfo?uuid=ba6c1d204ecf44cfa13f4b9eed295d64

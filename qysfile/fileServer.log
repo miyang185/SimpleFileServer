@@ -1,0 +1,33 @@
+11:00:35 [main] INFO  com.yang.QysfileApplication - Starting QysfileApplication using Java 1.8.0_241 on LAPTOP-ELUF84LO with PID 17272 (D:\IdeaIU-2019-Project\SpringBootStudy\qysfile\target\classes started by 米羊 in D:\IdeaIU-2019-Project\SpringBootStudy\qysfile)
+11:00:35 [main] INFO  com.yang.QysfileApplication - No active profile set, falling back to default profiles: default
+11:00:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:00:35 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:00:35 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:00:35 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+11:00:35 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:00:35 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 857 ms
+11:00:36 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:00:36 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:00:36 [main] INFO  com.yang.QysfileApplication - Started QysfileApplication in 1.736 seconds (JVM running for 2.474)
+11:00:42 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:00:42 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:00:42 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+11:00:42 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:00:42 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:05:14 [main] INFO  com.yang.QysfileApplication - Starting QysfileApplication using Java 1.8.0_241 on LAPTOP-ELUF84LO with PID 10904 (D:\IdeaIU-2019-Project\SpringBootStudy\qysfile\target\classes started by 米羊 in D:\IdeaIU-2019-Project\SpringBootStudy\qysfile)
+11:05:14 [main] INFO  com.yang.QysfileApplication - No active profile set, falling back to default profiles: default
+11:05:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:05:15 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:05:15 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:05:15 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+11:05:15 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:05:15 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 857 ms
+11:05:15 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:05:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:05:15 [main] INFO  com.yang.QysfileApplication - Started QysfileApplication in 1.746 seconds (JVM running for 2.516)
+11:05:32 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:05:32 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:05:32 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+11:05:32 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:05:32 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:06:30 [http-nio-8080-exec-3] INFO  com.yang.controller.FileController - 文件上传成功!

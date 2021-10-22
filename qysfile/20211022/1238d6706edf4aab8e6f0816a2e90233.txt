@@ -1,0 +1,111 @@
+C:\Program Files (x86)\SogouInput 
+https://max.book118.com/html/2016/0705/47361021.shtm
+<%@page import="org.apache.jasper.tagplugins.jstl.core.ForEach"%>
+https://blog.csdn.net/glb007/article/details/82562837
+https://wenku.baidu.com/view/582b288ce3bd960590c69ec3d5bbfd0a7856d539.html
+02-03Android学习进度报告三
+阅读笔记的标题一律为：构建之法阅读笔记01、构建之法阅读笔记02 ……
+阅读笔记个人感受部分要求
+1、我过去是怎么做的（或者我过去看见谁是怎么做的）；
+2、结合书中所讲，说明为什么这样不好；
+3. 提出一个解决办法，避免再次掉入陷阱。
+
+https://www.icourse163.org/course/HIT-154005?tid=1206679208
+https://www.runoob.com/tags/html-reference.html
+
+2000Xiao!
+miyang185
+2000xiaoyang
+47.98.255.190
+http://localhost:8080/JavaTest1/search.jsp
+jsp的servlet在本地能运行， 在云服务器上显示404 Not Found，怎么办？
+javax.servlet.ServletException: 实例化Servlet类[tongServlet.tongServlet]异常
+java.lang.UnsupportedClassVersionError: tongServlet/tongServlet has been compiled by a 
+more recent version of the Java Runtime (class file version 56.0), this version of the Java Runtime 
+only recognizes class file versions up to 52.0 (无法载入的.类 [tongServlet.tongServlet])
+使用Android Studio读取阿里云服务器的mysql数据库,并将数据显示在APP上
+https://github.com/wushenjiang/GetWorldData.git
+serverTimezone=UTC
+https://github.com/miyang185/Javawebone.git
+https://github.com/miyang185/WorldYiqingData
+https://github.com/miyang185/Yang
+电费单号：8403404997
+地址：毕村台区
+https://www.cnblogs.com/luqiang213917/p/9254827.html
+163邮箱：账号：xianyudui1805@163.com
+密码：2000zhang
+团队博客：
+账号：xianyu1805
+昵称：xianyudui
+密码：2000zhang
+C:\Users\米羊\Documents\Apowersoft\ApowerREC
+Python报错 'You have an error in your SQL syntax; 
+check the manual that corresponds to your MySQL server version for the right syntax to use near \'smaller-norm-less-important" criterion to prune filters with smaller norm values\' at line 3')
+matlab提交方式及实验报告命名规范
+实验报告命名方式：实验1-20180000-张三
+实验报告发送到feng0410@stdu.edu.cn
+https://wenku.baidu.com/view/3d448342bdd126fff705cc1755270722182e597a.html
+Android客户端post方式连接web（servlet）服务器实现数据展示
+https://www.cnblogs.com/yang2000/
+云服务器远程桌面密码：2000Xiao!
+https://jinshuju.net/login
+sqlserver数据库密码：以前的：sqlserveryang6254123   现在的：2000xiaosql
+sqlserver数据库主机名：LAPTOP-ELUF84LO
+web实验提交地址：http://www.xzc.cn/AggRXAwxg3
+云服务器管理控制台：https://ecs.console.aliyun.com/?spm=5176.6660585.774526198.1.71f86bf8lGCcmY#/server/region/cn-hangzhou
+教辅系统：http://121.28.69.79/jwxt/login.jsp
+教辅系统登录密码：2000xiao
+恩科账户密码：2000Xiao
+学习技术网站：https://b.edu.51cto.com/site/pro-plus-home/edu
+http://47.98.255.190:8080/JavaTest1/search.jsp
+Microf账户密码：2000xiao
+虚拟机账号：xiaoyang密码：2000xiao
+三个虚拟机的root用户密码：2000yang
+Ubuntu账号：ooz1密码：2000yang
+下载jdk的Oracle账号：614127294@qq.com  密码：2000Xiao
+中国版权保护中心：
+软考对答案：678910111213141516171819202122232425262728293031
+命令模式代码： D:\2020年下半年实验报告存放处\H-软件设计模式实验报告\软件设计_第九和十次\软件设计_第九十次\17\UndoDemo
+deactivate
+C# yingyuan 账号admin,密码123456
+中国软件杯密码：2000Xiao
+pdf转换器：http://pdftoword.55.la/
+MyBatis PageHelper插件
+（1）Mysql引擎  （2）InnoDB底层原理 （3）索引 （4）索引优化
+2000Xiao
+用户名：614127294@qq.com
+密码：aiUG42UTsTc4yIup
+leetcode   200079
+天行数据api密钥：56d2f14af5b7035fef535c5a5bf4f4d2
+GitHUb：账号：miyang185
+               密码：2000xiaoyang
+华为账号密码：2010xiao
+139邮箱账号：18730196171
+密码：2000Xiao
+Gitee 密码：2000xiao
+Neo4j：
+url:bolt://localhost:7687
+username:neo4j
+password:neo4j
+TIM和QQ密码：2000yang!!!
+https://miyang185.github.io/Desktop/xy.github.io/
+软考报名密码：X2000Xiao!
+小米wifi 密码：gcyy8023
+路由器管理密码：gcyy8023
+校园网：账号名：20183504  密码：123321
+121.28.69.79
+Canvas.CLIP_SAVE_FLAG
+apple 账号：18730196171 密码：xiaoyang1X 问题：tutu   tu1  tu2
+教辅系统网址：http://121.28.69.79/jwxt/login.jsp
+操作系统答案：https://wenku.baidu.com/view/70b751edd0d233d4b14e698d.html
+石铁大就业网站：2000Xiao!!
+DSight智慧实验室：网址：http://192.168.44.1:31890/training/#/user/login
+账号：xiaoyang  密码：2000xiao
+
+统一认证平台：账号：20183504   密码：158119
+
+秋季实训大数据软件安装：
+链接：https://pan.baidu.com/s/1Pu5PRxXglZ8yMDgjo1D5qQ 
+提取码：lmt9 
+
+移动笔试：https://t.weicewang.com/exam/101963
