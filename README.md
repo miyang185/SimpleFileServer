@@ -15,6 +15,8 @@ Server 端功能需求：
 Server 端技术要求：
 项目基于 Maven 构建，WEB 服务使用嵌入式 Jetty 或 Tomcat 实现，只提供接口
 服务，无界面，可以使用任意第三方框架和库。
+
+
 Client 端功能需求：
 Client 端 SDK：
 网络编程，封装 HTTP 请求，实现对 Server 端的 3 个接口的调用。
